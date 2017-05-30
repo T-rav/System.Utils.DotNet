@@ -1,6 +1,7 @@
-﻿using Newtonsoft.Json;
+﻿using System;
+using Newtonsoft.Json;
 
-namespace System.Utils.JsonUtils
+namespace TddBuddy.System.Utils.JsonUtils
 {
     public class MalformedIntegerJsonConverter : JsonConverter
     {

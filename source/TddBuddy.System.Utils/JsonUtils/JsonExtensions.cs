@@ -1,8 +1,7 @@
-﻿using System.Utils.JsonUtils;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace TddBuddy.System.Utils.DotNet.JsonUtils
+namespace TddBuddy.System.Utils.JsonUtils
 {
     public static class JsonExtensions
     {

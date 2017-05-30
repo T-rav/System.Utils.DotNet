@@ -1,6 +1,6 @@
 ﻿using System.Utils.Tests.JsonUtils;
 using NUnit.Framework;
-using TddBuddy.System.Utils.DotNet.JsonUtils;
+using TddBuddy.System.Utils.JsonUtils;
 
 namespace TddBuddy.System.Utils.Tests.JsonUtils
 {

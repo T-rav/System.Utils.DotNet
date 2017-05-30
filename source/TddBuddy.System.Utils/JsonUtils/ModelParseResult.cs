@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace System.Utils.JsonUtils
+namespace TddBuddy.System.Utils.JsonUtils
 {
     public class ModelParseResult<T>
     {
