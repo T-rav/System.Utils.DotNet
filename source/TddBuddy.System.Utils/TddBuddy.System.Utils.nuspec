@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TddBuddy.System.Utils.DotNet</id>
+    <version>1.0.0</version>
+    <title>System Utils - DotNet</title>
+    <authors>TddBuddy</authors>
+    <owners>StoneAge Technologies</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/T-rav/CleanArchitectureTestUtils-DotNet</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of utlities help with JSON conversion</description>
+    <releaseNotes>Init Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>JSON</tags>
+  </metadata>
+</package>
